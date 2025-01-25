@@ -14,7 +14,7 @@ const salesData = [
   // Customers Data
   const customers = [
     { customerId: 107, name: 'LMC', email: 'LMC@example.com' },
-    { customerId: 102, name: 'Dylan', email: 'Dyl@example.com' },
+    { customerId: 102, name: 'Oshi', email: 'Dyl@example.com' },
     { customerId: 103, name: 'Evans', email: 'Evans@example.com' },
   ];
   
